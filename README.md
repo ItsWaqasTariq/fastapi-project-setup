@@ -137,3 +137,7 @@ The following checks have been performed during development:
 `task/01-project-setup`
 
 This branch contains the initial project skeleton and local development environment configuration.
+
+## Task Status
+
+Task 01 project setup is implemented on the `task/01-project-setup` branch.
